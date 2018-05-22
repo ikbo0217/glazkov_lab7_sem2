@@ -1,4 +1,4 @@
-# glazkov_lab3_sem2
+# glazkov_lab7_sem2
 **Graphs**
 
 ## Compile
