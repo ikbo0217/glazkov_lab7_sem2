@@ -12,6 +12,12 @@ int main() {
 	Graph graph;
 
 	graph.load();
+	//Vertex v70 = graph.addVertex("70");
+	//Vertex v80 = graph.addVertex("80");
+
+	//graph.addEdge(v70, v80);
+
+	graph.save();
 
 	return 0;
 }
